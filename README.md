@@ -1,5 +1,5 @@
 # Facebook-Search-in-Groups
-Search in Facebook open groups for posts according to given keywords.
+Search in Facebook open groups for posts according to given keywords, using Facebook's GraphAPI.
 
 The script will yield the results in a HTML file.
 
