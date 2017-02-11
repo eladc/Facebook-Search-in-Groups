@@ -157,7 +157,7 @@ if __name__ == '__main__':
 			if datetime.datetime.strptime(date_text, '%Y-%m-%d'):
 				return True
 		except ValueError:
-			print "Incorrect data format, should be YYYY-MM-DD"
+			print "Incorrect date format, should be YYYY-MM-DD"
 			exit(1)
         	
 	## CL arguments
