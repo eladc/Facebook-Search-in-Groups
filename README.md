@@ -8,21 +8,21 @@ I'm using it to automate the search for job openings in relevant faceboook group
 
 ## Usage:
 
-Edit settings.ini -
+###Edit settings.ini -
 
-### Create an app at:
+#### Create an app at:
 
 https://developers.facebook.com/
 
 and get your App ID and App Key.
 
-### Get your user access token:
+#### Get your user access token:
 
 https://developers.facebook.com/tools/explorer
 
 It is required to compile a list of group IDs on the first run.
 
-### Set your desired words to search.
+#### Set your desired words to search.
 
 ### Add groups
 Add your favorite groups in urls file
