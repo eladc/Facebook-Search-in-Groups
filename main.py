@@ -3,7 +3,6 @@
 from facepy import GraphAPI, utils
 from sys import argv,exit
 import facepy.exceptions
-import codecs
 import datetime
 import csv
 import os
