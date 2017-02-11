@@ -24,18 +24,18 @@ It is required to compile a list of group IDs on the first run.
 
 #### Set your desired words to search.
 
-### Add groups
-Add your favorite groups in urls file
+#### Add groups
+Add your favorite groups in `urls` file
 
 ### Run:
 The first run will yield a csv file with a list of group IDs to search in.
 
-### CL Arguments:
+## CL Arguments:
 search for posts since the previous day:
 
     main.py 
     
-Search for posts since any give day:
+Search for posts since any given day:
 
     main.py YYYY-MM-DD
 
