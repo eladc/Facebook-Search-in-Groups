@@ -3,7 +3,7 @@ Search in Facebook open groups for posts according to given keywords, using Face
 
 The script will yield the results in a HTML file.
 
-I'm using it to automate the search for job openings in relevant faceboook groups.
+I wrote it to automate the search for job openings in relevant faceboook groups.
 
 
 ## Usage:
